@@ -43,7 +43,6 @@
 | Hot chocolate                            | 60.0  |
 | Water                            | 10.0  |
 
-## Lunch Menu
 
 
 
@@ -57,7 +56,6 @@
 | Natural yoghurt                        | 15.0  |
 
 
-etc.
 
 
 ---
