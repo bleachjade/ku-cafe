@@ -1,7 +1,8 @@
 # KU Cafe
 
+
 Breakfast Menu
-Lunch Menu
+[Lunch Menu](Menu.md#LunchMenu)
 Dinner Menu
 [Night Food Menu](Menu.md#Night-Food-menu)
 [Beverages](Menu.md#Beverages)
@@ -10,6 +11,12 @@ Dinner Menu
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
+
+| Panida Ounnaitham | Lunch Menu | [@PanidaOun](https://github.com/PanidaOun) |
+
 | Nattapol Boonyapornpong | Beverages | [@bleachjade](https://github.com/bleachjade) |
+
+
 | Nuttapol Korcharoenrat | night food | [Nuttapol Korcharoenrat](https://github.com/nuttapol-kor) |
+
 
