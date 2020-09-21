@@ -1,16 +1,13 @@
 # KU Cafe
 
 
-
-
 Breakfast Menu
 [Lunch Menu](Menu.md#LunchMenu)
 Dinner Menu
-Night Food Menu
+[Night Food Menu](Menu.md#Night-Food-menu)
 [Beverages](Menu.md#Beverages)
 
 ## About Us
-
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
@@ -19,4 +16,7 @@ Night Food Menu
 
 | Nattapol Boonyapornpong | Beverages | [@bleachjade](https://github.com/bleachjade) |
 
-| ...       | ...       | ...      |
+
+| Nuttapol Korcharoenrat | night food | [Nuttapol Korcharoenrat](https://github.com/nuttapol-kor) |
+
+
