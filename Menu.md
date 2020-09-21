@@ -20,8 +20,6 @@
 | Natural yoghurt                        | 15.0  |
 
 
-Coming soon.
-
 etc.
 
 ---
