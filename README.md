@@ -12,5 +12,5 @@ Night Food Menu
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Nattapol Boonyapornpong | Beverages | @bleachjade |
+| Nattapol Boonyapornpong | Beverages | [@bleachjade](https://github.com/bleachjade) |
 | ...       | ...       | ...      |
