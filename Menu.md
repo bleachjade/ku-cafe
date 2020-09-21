@@ -1,16 +1,17 @@
 # KU Cafe Menu
 
-## Breakfast Menu
+## Beverages
 
 | Item                                   | Price |
 |:---------------------------------------|------:|
-| nothing yet                            |  0.0  |
+| Wine                            | 1000.0  |
+| Coffee                            | 100.0  |
+| Lemonade                            | 50.0  |
+| Iced tea                            | 50.0  |
+| Juice                            | 40.0  |
+| Hot chocolate                            | 60.0  |
+| Water                            | 10.0  |
 
-## Lunch Menu
-
-Coming soon.
-
-etc.
 
 ---
 
