@@ -10,5 +10,5 @@ Beverages
 
 | Name      | Role      | Github   |
 |:----------|-----------|----------|
-| Nuttapol Korcharoenrat | night food | [Nuttapol Korcharoenrat](https://github.com/nuttapol-kor) |
+| Nuttapol Korcharoenrat | night food | [@nuttapol-kor](https://github.com/nuttapol-kor) |
 
