@@ -1,6 +1,7 @@
 # KU Cafe Menu
 
 
+
 ## Lunch Menu
 
 | Item                                   | Price |
@@ -10,6 +11,20 @@
 | Chicken Strips                          |  50.0  |
 | Beef Burger                        |  180.0  |
 |Taco Salad with Romaine Lettuce, tomato & cheddar cheese |  220.0 |
+
+## Beverages
+
+| Item                                   | Price |
+|:---------------------------------------|------:|
+| Wine                            | 1000.0  |
+| Coffee                            | 100.0  |
+| Lemonade                            | 50.0  |
+| Iced tea                            | 50.0  |
+| Juice                            | 40.0  |
+| Hot chocolate                            | 60.0  |
+| Water                            | 10.0  |
+
+
 
 ---
 
