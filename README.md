@@ -3,7 +3,7 @@
 
 
 Breakfast Menu
-[Lunch Menu](Menu.md#L4)
+[Lunch Menu](Menu.md#LunchMenu)
 Dinner Menu
 Night Food Menu
 Beverages
